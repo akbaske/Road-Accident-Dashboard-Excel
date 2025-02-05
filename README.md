@@ -17,3 +17,6 @@
 - Casualties by Road Type for the Current Year
 - Current Year Casualties by Area/ Location & by Day/Night
 - Total Casualties and Total Accidents by Location
+
+## Road Accident Dashboard
+<img width="569" alt="Road_Accident_Dashboard" src="https://github.com/user-attachments/assets/02639d6c-1ffc-464a-a9ff-06d30e7adc18" />
