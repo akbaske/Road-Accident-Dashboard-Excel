@@ -4,7 +4,7 @@ The project on Road Accident in Excel. Road Accident for year 2021 and 2022  das
  In this project I have created a Road Accident Analytics Dashboard, a powerful tool designed to analyse and visualize road accident data for the years 2021 and 2022. This Excel-based dashboard empowers stakeholders with valuable insights to make data-driven decisions. 
 
 # Skills 
-.Data Cleaning, Data Transformation, Data Analysis
-.Filtering, Sorting and Conditional function.
-.Pivot Tables and Pivot Chart
-.Data Visulisation and Dashboard creation
+-Data Cleaning, Data Transformation, Data Analysis
+-Filtering, Sorting and Conditional function.
+-Pivot Tables and Pivot Chart
+-Data Visulisation and Dashboard creation
